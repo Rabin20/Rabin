@@ -1,0 +1,17 @@
+body{
+	margin:0;
+}
+.header{
+	background-color: green;
+	text-align: center;
+	    font-size: 75;
+}
+.container{
+	background-color: red;
+	    font-size: 35;
+	    padding:1px;
+}
+.footer{
+	background-color: green;
+	font-size: 75;
+}

@@ -1,0 +1,29 @@
+.body{
+	margin: 0;
+}
+.header{
+	float:left;
+	background-color:blue;
+	width:100px;
+	padding-right:300px;
+}
+.head{
+	float:right;
+	background-color:green;
+	padding-left: 300px;
+}
+.option{
+	background-color: yellow;
+}
+.body1{
+	float:left;
+	background-color:blue;
+}
+.body2{
+	float:right;
+	background-color:green;
+}
+.footer{
+	background-color: green;
+	font-size: 75;
+}
