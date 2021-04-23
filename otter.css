@@ -1,41 +1,94 @@
 body{
+	margin: 3px;
 	background-color: skyblue;
-	margin: 0px;
 }
 .header{
 	text-align: center;
 	background-color: white;
 }
 .pics1{
-	text-align: center;
+	text-align: left;
+	display: block;
+	background-color: gray;
+	margin-right: 0px;
+	border:1px solid white;
+	width: 580px;
+	padding: 10px;
+	color: white;
+
+}
+.pics2{
+	text-align: left;
+	display: block;
+	background-color: gray;
+	margin-right: 0px;
+	border:1px solid white;
+    width: 580px;
+    padding: 10px;
+    color:white;
+}
+.pics3{
+	text-align: left;
+	display: block;
+	background-color: gray;
+	margin-right: 0px;
+	border:1px solid white;
+    width: 580px;
+    padding: 10px;
+    color: white;
+}
+.pics4{
+	text-align: left;
+	display: block;
+	background-color: gray;
+	margin-right: 0px;
+	border:1px solid white;
+    width: 580px;
+    padding: 10px;
+    color: white;
+}
+.pics5{
+	text-align: left;
+	display: block;
+	background-color: gray;
+	margin-right: 0px;
+	border:1px solid white;
+    width: 580px;
+    padding: 10px;
+    color: white;
 }
 .img-barry{
 	width:600px;
-	margin-left: 10px;
-}
-.pics3{
-	text-align: center;
+	height: auto;
+	margin-left:0px;
+
 }
 .img-robin{
 	width:600px;
-	margin-left: 10px;
-}
-.pics4{
-	text-align: right;
+	margin-left: 0px;
+	margin-block-start:10px;
 }
 .img-maurice{
 	width: 600px;
-	margin-left: 10px;
+	margin-left: 0px;
+	margin-block-start:10px;
+
 }
 .img-lesley{
 	width: 600px;
-	margin-left: 10px;
+	margin-left: 0px;
+	margin-block-start:10px;
+
 }
 .img-barbara{
 	width: 600px;
-	margin-left: 10px;
+	margin-left: 0px;
+	margin-block-start:10px;
 }
 
-@media (min-width:600px;) {
+@media screen and (max-width:500px;){
+	body{
+		
+	}
 
 }

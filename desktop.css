@@ -1,0 +1,40 @@
+body{
+ margin-top: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+.head{
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+.nav{
+	text-align: center;
+	background-color: darkblue;
+	color: white;
+}
+.option{
+	display: flex;flex-direction: row;
+}
+.opt{
+	text-align: center;
+	background-color: skyblue;
+	padding-top: 30px;
+	width:70%;
+}
+.next{
+	background-color: purple;
+	padding-top: 30px;
+	width:30%;
+
+}
+.foot{
+	background-color: darkgray;
+	text-align: center;
+	padding-bottom:10px;
+}
+@media screen and (max-width:500px){
+	body{
+		background:red;
+	}
+}

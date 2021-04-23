@@ -1,0 +1,27 @@
+body{
+	margin:0;
+}
+.head{
+	background-color: purple;
+	padding: 30px;
+}
+.option{
+	float:left;
+	padding-left: 30px;
+	background-color:blue;
+	padding-bottom:50px;
+	padding-right: 575px;
+	#border:10px solid;
+}
+.opt{
+	float:right;
+	padding-right:  30px;
+	background-color:green;
+	padding-bottom: 50px;
+	padding-left: 575px;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding-bottom: 30px;
+}
