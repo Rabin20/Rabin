@@ -1,0 +1,11 @@
+body{
+	background:url(design.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+
+}
+.info{
+	color: black;
+	text-align: left bottom;
+	text-shadow: 2px 2px 5px red;
+}
