@@ -1,0 +1,19 @@
+tr,td{
+	border: 1px solid black;
+}
+.maintable{
+	border: 3px solid red;
+	border-collapse: collapse;
+}
+.mainlist{
+	background:black;
+	color: white;
+	border-radius: 30px;
+
+
+}
+#list2{
+	background-color: green;
+	color:skyblue;
+
+}
